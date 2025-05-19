@@ -1,0 +1,4 @@
+manim
+importlib_metadata
+openai 
+streamlit 
