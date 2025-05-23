@@ -82,7 +82,7 @@ Navigate to http://localhost:8501 in your browser
 <img alt="AniMAGIC App Screenshot" src="AniMagic.gif" width="700">
 </p>
 
-[▶️ Watch AniMAGIC in Action](https://github.com/toashishagarwal/AniMAGIC/AniMagicDemo.mov)
+[▶️ Watch AniMAGIC in Action](https://youtube.com/shorts/RvhYLvWsui8)
 
 ### How It Works
 - User enters a natural language description (e.g. “A circle turns into a square”).
